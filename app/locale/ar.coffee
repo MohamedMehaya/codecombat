@@ -95,7 +95,7 @@ module.exports = nativeDescription: "العربية", englishDescription: "Arabi
 #    teachers: "Teachers"
 #    careers: "Careers"
 #    facebook: "Facebook"
-#    twitter: "Twitter"
+#    twitter: "تويتر"
 #    create_a_class: "Create a Class"
 #    other: "Other"
 #    learn_to_code: "Learn to Code!"
